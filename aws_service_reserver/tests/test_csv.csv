@@ -1,0 +1,3 @@
+2018-4-20,AWS,AccountName,us-east-1,db.m1.small,mysql,Yes,12,$0.059,$516.00,$0.000,All Upfront,3
+2018-4-20,AWS,AccountName,us-east-1,db.r3.2xlarge,mysql,No,12,$0.501,$4396.00,$0.000,All Upfront,1
+2018-4-20,AWS,AccountName,us-east-1,db.r3.2xlarge,postgresql,Yes,12,$1.003,$8792.00,$0.000,All Upfront,1
